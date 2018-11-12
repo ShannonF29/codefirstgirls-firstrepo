@@ -1,0 +1,7 @@
+.main-content {
+  color: blue;
+  font-family: sans-serif;
+}
+.div > h2 {
+  color: red;
+}
